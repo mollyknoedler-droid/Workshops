@@ -1,0 +1,9 @@
+Filepath,Model,Label,XMin,YMin,Width,Height,Confidence
+/mnt/batnas/ML/WEST_cameratraps/data/datasets/CameraTraps_Missouri/Set1/1.60-Red_Fox/SEQ75195/SEQ75195_IMG_0001.JPG,ground_truth,red_fox,0.04150390625,0.5859375,0.1806640625,0.1302083333333333,
+/mnt/batnas/ML/WEST_cameratraps/data/datasets/CameraTraps_Missouri/Set1/1.60-Red_Fox/SEQ75195/SEQ75195_IMG_0002.JPG,ground_truth,red_fox,0.15283203125,0.578125,0.169921875,0.1380208333333333,
+/mnt/batnas/ML/WEST_cameratraps/data/datasets/CameraTraps_Missouri/Set1/1.60-Red_Fox/SEQ75195/SEQ75195_IMG_0003.JPG,ground_truth,red_fox,0.22412109375,0.5872395833333334,0.19873046875,0.1380208333333333,
+/mnt/batnas/ML/WEST_cameratraps/data/datasets/CameraTraps_Missouri/Set1/1.60-Red_Fox/SEQ75195/SEQ75195_IMG_0004.JPG,ground_truth,red_fox,0.3056640625,0.564453125,0.2197265625,0.1555989583333333,
+/mnt/batnas/ML/WEST_cameratraps/data/datasets/CameraTraps_Missouri/Set1/1.60-Red_Fox/SEQ75195/SEQ75195_IMG_0005.JPG,ground_truth,red_fox,0.37158203125,0.5833333333333333,0.2158203125,0.13671875,
+/mnt/batnas/ML/WEST_cameratraps/data/datasets/CameraTraps_Missouri/Set1/1.60-Red_Fox/SEQ75195/SEQ75195_IMG_0006.JPG,ground_truth,red_fox,0.68896484375,0.58984375,0.21484375,0.1380208333333333,
+/mnt/batnas/ML/WEST_cameratraps/data/datasets/CameraTraps_Missouri/Set1/1.60-Red_Fox/SEQ75195/SEQ75195_IMG_0007.JPG,ground_truth,red_fox,0.7783203125,0.58203125,0.216796875,0.1321614583333333,
+/mnt/batnas/ML/WEST_cameratraps/data/datasets/CameraTraps_Missouri/Set1/1.60-Red_Fox/SEQ75195/SEQ75195_IMG_0008.JPG,ground_truth,red_fox,0.904296875,0.6087239583333334,0.0947265625,0.0924479166666666,
